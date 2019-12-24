@@ -30,13 +30,13 @@ p {
 .title {
 	font-size: 125%;
 	text-align: center;
-	width: 30%;
+	width: 35%;
 	background-color: #FF7F50;
 	border-left: 1px solid black;
 	border-bottom: 1px solid black;
 	position: relative;
 	top: 0;
-	right: -70%;
+	right: -65%;
 }
 div#col1 > div {
 	background-color: #e3eaa7;
